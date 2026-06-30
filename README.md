@@ -7,6 +7,7 @@ It was built for UiPath AgentHack using UiPath Apps, UiPath AI Agents, Analyze F
 ## Demo
 
 Devpost project: https://devpost.com/software/artesania
+
 Demo video: https://youtu.be/Z12n8jF8cVU?si=sPiRh7o730fhb6Yn
 
 ## Inspiration
