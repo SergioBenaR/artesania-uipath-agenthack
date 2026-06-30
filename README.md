@@ -4,6 +4,11 @@ ArtesanIA is an agentic workflow for documenting, validating, and certifying Bol
 
 It was built for UiPath AgentHack using UiPath Apps, UiPath AI Agents, Analyze Files, Action Apps, and Maestro BPMN.
 
+## Demo
+
+Devpost project: https://devpost.com/software/artesania
+Demo video: https://youtu.be/Z12n8jF8cVU?si=sPiRh7o730fhb6Yn
+
 ## Inspiration
 
 Bolivia has a massive folkloric and creative ecosystem. Major cultural expressions such as the Carnival of Oruro and Gran Poder are recognized by UNESCO as Intangible Cultural Heritage. Behind these festivities there are thousands of artisans, embroiderers, mask makers, designers, dancers, musicians, and fraternity organizers.
