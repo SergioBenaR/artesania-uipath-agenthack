@@ -57,7 +57,7 @@ Configure the agent with:
 
 Use the agent prompt documented in:
 
-`docs/agent-prompt.md`
+`agent-prompt.md`
 
 The agent should return structured JSON with fields such as:
 
@@ -100,7 +100,7 @@ Create a Maestro BPMN process with the following flow:
 
 The workflow is documented in:
 
-`docs/maestro-workflow.md`
+`maestro-workflow.md`
 
 ## 5. Certificate and hash step
 
